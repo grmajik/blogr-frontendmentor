@@ -1,1 +1,1 @@
-# blogr-frontendpractice
+# blogr-frontendmentor
