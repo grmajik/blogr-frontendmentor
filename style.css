@@ -33,7 +33,7 @@ body {
 .header {
     border-bottom-left-radius: 100px;
     height: 60vh;
-    background-image: url(/images/bg-pattern-intro.svg), linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
+    background-image: url(images/bg-pattern-intro.svg), linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
     background-position: 26% 51%;
     background-size: 3300px, contain;
     background-repeat: no-repeat;
